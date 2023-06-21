@@ -287,4 +287,12 @@ footer{
     .about-us{
         background-position: center center;
     }
+    .about-us h3{
+        font-size: 3vh; !important
+        padding-bottom: none;
+    }
+    .square p{
+        font-size: 85%; !important
+        padding-bottom: 10px;
+    }
 }
