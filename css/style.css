@@ -289,12 +289,13 @@ footer{
     }
     .about-us{
         background-position: center center;
+        padding: 20vh, 0vh, 20vh, 0vh;
     }
     .about-us h3{
         font-size: 3vh; !important
     }
     .square p{
-        font-size: 85%; !important
-        padding-bottom: 10px;
+        font-size: 12px; !important
+        padding-bottom: 6px;
     }
 }
