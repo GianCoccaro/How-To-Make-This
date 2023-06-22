@@ -213,9 +213,14 @@ footer{
     font-size: 24px;
     margin: 10px;
 }
+.icon-circle a{
+    text-decoration: none;
+    color: inherit;
+}
 .icon-circle:hover{
     background-color: #eef2ed;
 }
+
 
 /* ABOUT US */
 .about-us{
@@ -293,6 +298,10 @@ footer{
     }
     .about-us h3{
         font-size: 3vh; !important
+    }
+    .square{
+        width: 100vw;
+        height: auto;
     }
     .square p{
         font-size: 12px; !important
